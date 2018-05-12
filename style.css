@@ -1,0 +1,13 @@
+/* Styling various Html elements */
+header{height:70px ; width: 140px; 
+    color:white;
+    border:1px;
+    border-spacing:20px;
+    border-radius: 50%;
+    background: blue;
+    text-align: center; 
+    padding: 20px;
+    }
+    
+ *{background: repeating-linear-gradient(lightyellow, yellow);}
+
